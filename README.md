@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Goutham</h1>
-<h3 align="center">I'm a junior at IIT Guwahati, majoring in Mathematics and Computing</h3>
+<h3 align="center">I'm a senior at IIT Guwahati, majoring in Mathematics and Computing</h3>
 
 - 📫 Drop a mail here **d.goutham@iitg.ac.in**
 
