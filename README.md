@@ -6,6 +6,7 @@ I had the privilege of contributing to open-source development during my time wi
 
 For those who share a passion for blockchain, its nuances, and the transformative power of tech, I'm eager to connect, discuss, and drive forward the advancements of the digital domain.</p>
 - 📫 Drop a mail here **d.goutham@iitg.ac.in**
+- Resume: https://shorturl.at/drBCP
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
