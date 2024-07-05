@@ -5,7 +5,7 @@ Currently exploring the DA space
 
 I had the privilege of contributing to open-source development during my time with Google Summer of Code 2023, diving into complex network libraries and algorithms that enhanced research capabilities.
 </p>
-- 📫 Drop a mail here **d.goutham@iitg.ac.in**
+- 📫 Drop a mail here **goutham.denthaje@nethermind.io**
 - Resume: https://shorturl.at/drBCP
 
 <h3 align="left">Connect with me:</h3>
