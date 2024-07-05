@@ -1,10 +1,10 @@
 <h1 align="center">Hi there 👋, I'm Goutham</h1>
-<h3 align="center">I'm a final year Mathematics and Computing undergraduate at IIT Guwahati</h3>
-<p align="center">As an enthusiastic blockchain developer, I have traversed the vast landscapes of technology, constantly evolving and adapting. Recently, my passion has been magnetically drawn toward zkEVM and zk rollups. These cutting-edge technologies present intriguing challenges and opportunities within the Ethereum ecosystem, and I'm ardently exploring and navigating their potential. Simultaneously, I've been blending this interest with my foundational expertise in web2, crafting dynamic web interfaces and robust mobile applications.
+<h3 align="center">Research Enginneer at Nethermind</h3>
+<p align="center">
+Currently exploring the DA space
 
 I had the privilege of contributing to open-source development during my time with Google Summer of Code 2023, diving into complex network libraries and algorithms that enhanced research capabilities.
-
-For those who share a passion for blockchain, its nuances, and the transformative power of tech, I'm eager to connect, discuss, and drive forward the advancements of the digital domain.</p>
+</p>
 - 📫 Drop a mail here **d.goutham@iitg.ac.in**
 - Resume: https://shorturl.at/drBCP
 
