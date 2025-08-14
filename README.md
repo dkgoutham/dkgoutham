@@ -1,9 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Goutham</h1>
 <h3 align="center">Research Enginneer at Nethermind</h3>
 <p align="center">
-Currently exploring the DA space
+Currently exploring zk proofs.
 
-I had the privilege of contributing to open-source development during my time with Google Summer of Code 2023, diving into complex network libraries and algorithms that enhanced research capabilities.
+
 </p>
 - 📫 Drop a mail here **goutham.denthaje@nethermind.io**
 - Resume: https://shorturl.at/drBCP
